@@ -10,3 +10,5 @@
 ## 西式早餐
 
 麥味登
+
+菜單/營養標示  [連結](https://www.mwd.com.tw/index.php?code=list&ids=356)
